@@ -8,7 +8,20 @@
 
 Make the dropped items you care about easier to spot in a loot pile. Set individual sizes and glint effects through a searchable, dark UI.
 
-**[Download DropScale 1.0.0](https://github.com/082-0/DropScale/releases/download/v1.0.0/DropScale-1.0.0-fabric-1.21.11.jar)** · [Release details](https://github.com/082-0/DropScale/releases/tag/v1.0.0) · [Creator](https://github.com/082-0)
+## Download
+
+| Mod | Download |
+| --- | --- |
+| DropScale 1.21.11 | [Download](https://github.com/082-0/DropScale/releases/download/v1.0.0/DropScale-1.21.11.jar) |
+| DropScale 26.1 | Not available yet |
+| DropScale 26.1.1 | Not available yet |
+| DropScale 26.1.2 | Not available yet |
+| DropScale 26.2 | Not available yet |
+| DropScale 26.3 | Not available yet |
+
+Only the 1.21.11 build is available. The latest stable Minecraft version in the official version list is 26.3; later-version downloads will need compatible builds.
+
+**Needs:** [Fabric](https://fabricmc.net/) ([installer](https://fabricmc.net/use/installer/)), [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.21.11), and Java 21 or newer. Use dependencies matching Minecraft 1.21.11.
 
 ## Pictures
 
@@ -37,8 +50,8 @@ Actual Minecraft screenshot. The selected Netherite Sword is set to 2x with glin
 | Requirement | Version / scope |
 | --- | --- |
 | Minecraft Java Edition | **1.21.11 exactly** |
-| Loader | **Fabric Loader 0.18.1 or newer** |
-| Fabric API | **0.141.6+1.21.11 or newer compatible with 1.21.11** |
+| Loader | [Fabric Loader](https://fabricmc.net/) **0.18.1 or newer** |
+| Fabric API | [Fabric API download](https://modrinth.com/mod/fabric-api/versions?g=1.21.11): **0.141.6+1.21.11 or newer compatible with 1.21.11** |
 | Java | **21 or newer** |
 | Installation side | **Client only**; the server does not need DropScale |
 
@@ -46,9 +59,9 @@ This download is not a Forge or NeoForge mod. Minecraft versions after 1.21.11 r
 
 ## Install
 
-1. Install Fabric for Minecraft **1.21.11** in the launcher you use.
-2. Install the matching **Fabric API** in that instance's `mods` folder.
-3. Download `DropScale-1.0.0-fabric-1.21.11.jar` using the button above.
+1. Install [Fabric](https://fabricmc.net/use/installer/) for Minecraft **1.21.11** in the launcher you use.
+2. Install the matching [Fabric API](https://modrinth.com/mod/fabric-api/versions?g=1.21.11) in that instance's `mods` folder.
+3. Download `DropScale-1.21.11.jar` using the button above.
 4. Put that JAR in the same `mods` folder and launch the instance.
 5. Press **O** to open DropScale.
 
@@ -101,7 +114,7 @@ The screenshot above is from the actual client test. This first release is not a
 
 ## Download integrity
 
-File: `DropScale-1.0.0-fabric-1.21.11.jar`  
+File: `DropScale-1.21.11.jar`  
 Size: **24,060 bytes**  
 SHA-256: `0119ef93da3da53609523c5f07629454c266aaf5920c92cb3c52c42bce3e143b`
 
