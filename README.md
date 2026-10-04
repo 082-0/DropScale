@@ -19,17 +19,23 @@ Requires **[Fabric](https://fabricmc.net/)**: Loader **0.18.1+ for 1.21.11**, or
 
 ## Pictures
 
-![DropScale icon](images/DropScale-icon.png)
+### Glint and enlarged loot — Minecraft 26.3
+
+![Enlarged glinting loot in a cherry-tree garden](images/DropScale-glint-garden.png)
+
+Real Minecraft screenshots: Netherite Sword **2.5x**, Diamond **2x**, and Netherite Chestplate **1.8x**, with glint enabled. Emerald, coal, and wheat retain normal size.
+
+| Normal loot — DropScale OFF | Customized loot — DropScale ON |
+| --- | --- |
+| ![Normal dropped items](images/DropScale-normal-loot.png) | ![Enlarged glinting dropped items](images/DropScale-glint-garden.png) |
+
+### Close-up
+
+![Glinting sword, chestplate, and diamond beside ordinary drops](images/DropScale-glint-closeup.png)
 
 ### Configuration UI — Minecraft 26.3
 
 ![Actual DropScale UI with a netherite search and 2x sword size](images/DropScale-26.3-preview.png)
-
-### Dropped-item world test — Minecraft 26.3
-
-![Actual enlarged dropped Netherite Sword during the Minecraft 26.3 world test](images/DropScale-26.3-world.png)
-
-These are actual Minecraft client screenshots. The test sword was configured at 2x with glint enabled.
 
 ## Install
 
