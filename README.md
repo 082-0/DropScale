@@ -1,5 +1,7 @@
 # DropScale
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?logo=fabric&logoColor=black)
+
 **Your loot. Your focus.** Make important dropped items stand out with individual size and glint settings.
 
 ## Download
